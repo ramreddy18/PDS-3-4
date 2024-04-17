@@ -1,0 +1,8 @@
+Remarks regarding the statistical comparison:
+
+1. The population mean and maximum values, as far as I can tell, are higher than the sample mean and maximum.
+
+
+2. I noticed that the sample percentile number is lower than the population percentile.
+
+3. Additionally, there doesn't appear to be much of a difference between bootstrap and population statistics.
